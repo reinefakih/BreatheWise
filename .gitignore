@@ -2,3 +2,5 @@
 "1.First Look"/*.csv
 *.log
 __pycache__/
+/0.1.Data Used
+/0.Data

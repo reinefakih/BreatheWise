@@ -166,17 +166,17 @@
 
 
 ### Dashboard
-| Landing Page |
-| :-:|
-| <img src="./readme/Landing_Page.jpg"> |
-| **Overview Page** |
-| <img src="./readme/Overview_Page.jpg"> |
-| **Analysis Page Example** |
-| <img src="./readme/Analysis_Page.jpg"> |
-| **DrillThrough Page Example** |
-| <img src="./readme/Drillthrough_Page.jpg"> |
-| **ToolTip Page Example** |
-| <img src="./readme/Tooltip_Page.jpg"> |
+| Landing Page | **Overview Page** |
+| :-:| :-:|
+| <img src="./readme/Landing_Page.jpg"> | <img src="./readme/Overview_Page.jpg"> |
+| **Analysis Page Example** | **Drill Through Page Example** |
+| <img src="./readme/Analysis_Page.jpg"> | <img src="./readme/Drillthrough_Page.jpg"> |
+|        **ToolTip Page Example**        | **Drill Through Access Example** |
+| <img src="./readme/Tooltip_Page.jpg"> | <img src="./readme/drill through.gif"> |
+| **Navigation** | **Bookmarks Example** |
+| <img src="./readme/navigation.gif"> | <img src="./readme/bookmarks.gif"> |
+| **Dimension Slicer Example** |  |
+| <img src="./readme/dimensions.gif"> |  |
 
 <br><br>
 
