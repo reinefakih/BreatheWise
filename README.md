@@ -205,7 +205,47 @@
 <!-- How to run -->
 <img src="./readme/title10.svg"/>
 
-The first three directories are mostly data related, and don't showcase the main features. I will explain what each directory has!
+### 1. **Coding Requirements:**
+
+> This project was built and tested on Python version `3.12.4`.
+
+To download the requirements:
+
+**1. Clone the Repository:**
+
+​	``` git clone https://github.com/reinefakih/BreatheWise```
+
+**2. (Optional but Recommended) Set Up a Virtual Environment:**
+
+​	```python -m venv <env name>```
+
+**3. Install Dependencies: **
+
+​	```pip install -r requirements.txt``` 
+
+### 2. **Dashboard Requirements**: 
+
+#### Step 1: Install Power BI Desktop
+
+1. **Download Power BI Desktop**:
+   - Go to the [official Power BI Desktop download page](https://powerbi.microsoft.com/desktop/).
+   - Click the "Download Free" button to get the installer.
+2. **Install Power BI Desktop**:
+   - Run the installer and follow the on-screen instructions to complete the installation.
+
+#### Step 2: Open the `.pbix` File
+
+1. Launch Power BI Desktop.
+
+2. In Power BI Desktop, click on `File > Open`.
+
+3. Navigate to the folder where the `.pbix` file is located (e.g., `reports/` folder).
+
+4. Select the `.pbix` file and click **Open** to load the report.
+
+### 3. **Directory Guidelines**:
+
+>  The first three directories are mostly data related, and don't showcase the main features. I will explain what each directory has!
 
 **1. 0.Data Directory:** 
 
