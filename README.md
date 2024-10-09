@@ -211,15 +211,15 @@
 
 To download the requirements:
 
-**1. Clone the Repository:**
+1. **Clone the Repository:**
 
 ​	``` git clone https://github.com/reinefakih/BreatheWise```
 
-**2. (Optional but Recommended) Set Up a Virtual Environment:**
+2. **(Optional but Recommended) Set Up a Virtual Environment:**
 
 ​	```python -m venv <env name>```
 
-**3. Install Dependencies: **
+3. **Install Dependencies:**
 
 ​	```pip install -r requirements.txt``` 
 
